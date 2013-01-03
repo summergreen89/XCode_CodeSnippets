@@ -1,0 +1,3 @@
+<#classname#> *controller = [<#classname#> alloc]initWithNibName:<#classname#> bundle:nil];
+[self.navigationController pushViewController:controller animated:YES];
+[controller release];
